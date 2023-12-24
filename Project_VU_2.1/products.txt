@@ -1,0 +1,5 @@
+1 kola 20
+2 dab 30
+3 oange 40
+4 guava 20
+5 x 23
